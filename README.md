@@ -1,4 +1,4 @@
-# KBES_Project-11615139_K1637_B35
+# BDA 
 A Diet Recommendation System using Machine Learning Algorithms. 
 To run the project prerequirements are:
 Install the following by running the command:
